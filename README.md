@@ -19,7 +19,7 @@ asdf
  1. dfgdsfgjdfskl
  2. dfgdsfgjdfsklkjl
 
-
+Zmiana na gicie
 jdgklsdfjgklfdskjgfls
 
 [link do google](http.google.com)
