@@ -20,7 +20,10 @@ asdf
  2. dfgdsfgjdfsklkjl
 
 
+jdgklsdfjgklfdskjgfls
+
 [link do google](http.google.com)
 
 
 ![zdjecie](http://linux-delhi.org/wp-content/uploads/2012/07/contribution-to-linux.jpg)
+
